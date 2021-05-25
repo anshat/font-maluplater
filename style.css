@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://data.whicdn.com/images/311154906/original.gif");
+    background-position: 100%;
+    background-size: cover; 
+}
+h2{
+    font-family: 'Freckle Face', cursive;
+}
+.heading{
+    box-shadow: 5px 5px 25px white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
+.span_note{
+font-size: 18px;
+color: white;
+}
+.copy_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: #000;
+    width: 100%;
+    line-height: 2;
+    box-shadow: 5px 5px 20px white;
+}
+canvas{
+    border: 5px dashed black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 35px white;
+    margin-top: 25px;
+}
+#fm{
+    color: white;
+}
